@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm an AI & Data Science Student<br><br>🎓 I’m an AI–Data Science degree graduate passionate about building intelligent systems and turning data into meaningful insights.<br>🤖 Currently working on Machine Learning, Deep Learning, and AI-based projects.<br>🐍 Primary language: Python<br>🧠 Frameworks & tools: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn<br><br>🎯 Fun Fact<br><br>♟️ I play chess randomly — sometimes seriously, sometimes just for fun 😄
+👋 Hi there <br><br>🎓 I’m an AI–Data Science degree graduate passionate about building intelligent systems and turning data into meaningful insights.<br>🤖 Currently working on Machine Learning, Deep Learning, and AI-based projects.<br>🐍 Primary language: Python<br>🧠 Frameworks & tools: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn<br><br>🎯 Fun Fact<br><br>♟️ I play chess randomly — sometimes seriously, sometimes just for fun 😄
 
 
 ## 🌐 Socials:
